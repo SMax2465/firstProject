@@ -12,22 +12,18 @@ public class Main {
             System.out.println("i = " + i);
         }
 
-        System.out.println(somme(2,3));
+
         System.out.println(soustraction(2,3));
-        System.out.println(somme(12,3));
-
-
+        System.out.println(division(2,3));
 
 
     }
-
-    public static int somme(int a, int b){
-        return a+b;
-    }
-
 
     public static int soustraction(int a, int b){
         return a-b;
     }
 
+    public static int division(int a, int b){
+        return a-b;
+    }
 }
