@@ -11,7 +11,7 @@ public class Main {
         }
 
         System.out.println(somme(2,3));
-        System.out.println(multiplication(3,12));
+
         System.out.println(multiplication(2,3));
     }
 
