@@ -20,10 +20,7 @@ public class Main {
         // coucou ça va
         System.out.println("bienvenue");
 
-
         System.out.println("test");
-
-
 
 
     }
