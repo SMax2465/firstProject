@@ -14,6 +14,8 @@ public class Main {
 
         System.out.println(somme(2,3));
         System.out.println(soustraction(2,3));
+        System.out.println(somme(12,3));
+
 
 
 
