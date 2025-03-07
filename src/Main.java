@@ -13,8 +13,6 @@ public class Main {
         }
 
         System.out.println(somme(2,3));
-        System.out.println(soustraction(2,3));
-
 
 
     }
@@ -24,6 +22,8 @@ public class Main {
     }
 
 
-
+    public static int soustraction(int a, int b){
+        return a-b;
+    }
 
 }
