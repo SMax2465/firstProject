@@ -18,6 +18,7 @@ public class Main {
         System.out.println(somme(10,2));
 
         // coucou ça va
+        System.out.println("bienvenue");
 
 
         System.out.println("test");
