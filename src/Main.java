@@ -14,7 +14,8 @@ public class Main {
 
 
         System.out.println(soustraction(2,3));
-        System.out.println(division(2,3));
+
+
         System.out.println("test");
 
 
@@ -24,7 +25,4 @@ public class Main {
         return a-b;
     }
 
-    public static int division(int a, int b){
-        return a-b;
-    }
 }
