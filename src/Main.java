@@ -21,6 +21,9 @@ public class Main {
 
         System.out.println("test");
 
+        System.out.println("Salut toi !");
+
+
     }
 
     public static int somme(int a, int b){
